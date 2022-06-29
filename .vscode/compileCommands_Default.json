@@ -1,0 +1,57 @@
+[
+    {
+        "file": "C:\\\\Anna\\\\UEProject2\\\\BuildingEscape2\\\\Source\\\\BuildingEscape2\\\\BuildingEscape2.Build.cs",
+        "command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.31.31103\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Anna\\UEProject2\\BuildingEscape2\\.vscode\\compileCommands_Default\\BuildingEscape2.210.rsp\"",
+        "directory": "C:\\Users\\Ann\\Documents\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "C:\\\\Anna\\\\UEProject2\\\\BuildingEscape2\\\\Source\\\\BuildingEscape2\\\\BuildingEscape2.cpp",
+        "command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.31.31103\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Anna\\UEProject2\\BuildingEscape2\\.vscode\\compileCommands_Default\\BuildingEscape2.210.rsp\"",
+        "directory": "C:\\Users\\Ann\\Documents\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "C:\\\\Anna\\\\UEProject2\\\\BuildingEscape2\\\\Source\\\\BuildingEscape2\\\\BuildingEscape2.h",
+        "command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.31.31103\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Anna\\UEProject2\\BuildingEscape2\\.vscode\\compileCommands_Default\\BuildingEscape2.210.rsp\"",
+        "directory": "C:\\Users\\Ann\\Documents\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "C:\\\\Anna\\\\UEProject2\\\\BuildingEscape2\\\\Source\\\\BuildingEscape2\\\\BuildingEscape2GameModeBase.cpp",
+        "command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.31.31103\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Anna\\UEProject2\\BuildingEscape2\\.vscode\\compileCommands_Default\\BuildingEscape2.210.rsp\"",
+        "directory": "C:\\Users\\Ann\\Documents\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "C:\\\\Anna\\\\UEProject2\\\\BuildingEscape2\\\\Source\\\\BuildingEscape2\\\\BuildingEscape2GameModeBase.h",
+        "command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.31.31103\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Anna\\UEProject2\\BuildingEscape2\\.vscode\\compileCommands_Default\\BuildingEscape2.210.rsp\"",
+        "directory": "C:\\Users\\Ann\\Documents\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "C:\\\\Anna\\\\UEProject2\\\\BuildingEscape2\\\\Source\\\\BuildingEscape2\\\\WorldPosition.cpp",
+        "command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.31.31103\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Anna\\UEProject2\\BuildingEscape2\\.vscode\\compileCommands_Default\\BuildingEscape2.210.rsp\"",
+        "directory": "C:\\Users\\Ann\\Documents\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "C:\\\\Anna\\\\UEProject2\\\\BuildingEscape2\\\\Source\\\\BuildingEscape2\\\\WorldPosition.h",
+        "command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.31.31103\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Anna\\UEProject2\\BuildingEscape2\\.vscode\\compileCommands_Default\\BuildingEscape2.210.rsp\"",
+        "directory": "C:\\Users\\Ann\\Documents\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "c:\\\\Anna\\\\UEProject2\\\\BuildingEscape2\\\\Source\\\\BuildingEscape2\\\\OpenDoor.cpp",
+        "command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.31.31103\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Anna\\UEProject2\\BuildingEscape2\\.vscode\\compileCommands_Default\\BuildingEscape2.210.rsp\"",
+        "directory": "C:\\Users\\Ann\\Documents\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "c:\\\\Anna\\\\UEProject2\\\\BuildingEscape2\\\\Source\\\\BuildingEscape2\\\\OpenDoor.h",
+        "command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.31.31103\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Anna\\UEProject2\\BuildingEscape2\\.vscode\\compileCommands_Default\\BuildingEscape2.210.rsp\"",
+        "directory": "C:\\Users\\Ann\\Documents\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "c:\\\\Anna\\\\UEProject2\\\\BuildingEscape2\\\\Source\\\\BuildingEscape2\\\\Grabber.cpp",
+        "command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.31.31103\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Anna\\UEProject2\\BuildingEscape2\\.vscode\\compileCommands_Default\\BuildingEscape2.210.rsp\"",
+        "directory": "C:\\Users\\Ann\\Documents\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "c:\\\\Anna\\\\UEProject2\\\\BuildingEscape2\\\\Source\\\\BuildingEscape2\\\\Grabber.h",
+        "command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.31.31103\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Anna\\UEProject2\\BuildingEscape2\\.vscode\\compileCommands_Default\\BuildingEscape2.210.rsp\"",
+        "directory": "C:\\Users\\Ann\\Documents\\UE_4.27\\Engine\\Source"
+    }
+]
